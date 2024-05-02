@@ -2,29 +2,6 @@
 
 Welcome to the Power BI project repository dedicated to analyzing Amazon sales data and Amazon Prime performance! This project aims to provide comprehensive insights into sales, product performance, and the impact of Amazon Prime on the business through intuitive dashboards and reports.
 
-Project Structure 📁
-/power-bi-project-repo
-│
-├── /data                    # Directory for storing raw data files
-│   ├── Amazon Prime Movies.xlsx
-│   ├── Amazon_Combined_Data.xlsx
-│   └── ...
-│
-├── /documents               # Directory for project documents
-│   ├── Problem Statement.docx
-│   └── ...
-│
-├── /images                  # Directory for storing images
-│   └── Amazon_Background.jpg
-│
-├── /reports                 # Directory for Power BI reports and related files
-│   ├── Amazon Sales Dashboard.pbix
-│   └── ...
-│
-└── README.md                # Project README file providing an overview of the project
-
-
-
 
 ## Quick Links 🚀
 
